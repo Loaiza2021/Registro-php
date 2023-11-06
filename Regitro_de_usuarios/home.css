@@ -1,0 +1,40 @@
+
+
+.div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnp{
+  font-size: 40px;
+}
+
+
+.sect{
+  width: 80%;
+  height: auto;
+  margin: 2% 5%;
+  padding: 3% 4%;
+  border-radius: 8px;
+  box-shadow: 0 6px 10px rgba(0,0,0,.1);
+  transition: .3s ease-in-out;
+
+
+}
+
+.btn{
+display: flex;
+flex-direction:column;
+justify-content:center;
+
+}
+
+.vtn{
+font-size: 30px;
+
+}
+
+
+
+
